@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #F6F6F6;
+  height: 100vh;
+}
+:root {
+  --grey: #899499;
+  --black: #252627;
+  --primary: #840259;
+  --secondary: #003366;
+  --white: #fff;
+}
